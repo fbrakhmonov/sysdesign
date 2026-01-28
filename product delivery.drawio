@@ -155,6 +155,15 @@
         <mxCell id="MFwmt5kd3MixIHJ4KjYo-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#000000,#000000);" value="Web" vertex="1">
           <mxGeometry height="60" width="120" x="2759" y="304" as="geometry" />
         </mxCell>
+        <mxCell id="MFwmt5kd3MixIHJ4KjYo-56" edge="1" parent="1" source="MFwmt5kd3MixIHJ4KjYo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" target="MFwmt5kd3MixIHJ4KjYo-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2104" y="570" />
+              <mxPoint x="2264" y="570" />
+              <mxPoint x="2264" y="331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MFwmt5kd3MixIHJ4KjYo-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#000000,#000000);" value="Restaurant integrations" vertex="1">
           <mxGeometry height="60" width="120" x="2044" y="793" as="geometry" />
         </mxCell>
